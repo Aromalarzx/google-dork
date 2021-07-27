@@ -86,11 +86,3 @@ Adding a tilde to a search word tells Google that you want it to bring back syn
 ```
 ~set
 ```
-
-#### Glob pattern (*)
-
-Putting an asterisk in a search tells Google ‘I don’t know what goes  here’. Basically, it’s really good for finding half remembered song  lyrics or names of things.
-
-```
-site:*.com
-```
